@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbe06532-4a2d-4b30-afb9-2317aeff67b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pqQJegHmWK1CB6J8iwgSVQMXhc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Finalproject_flutter" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Finalproject_flutter/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Finalproject_flutter" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbe06532-4a2d-4b30-afb9-2317aeff67b1" name="Default Changelist" comment="" />
+      <created>1615908069410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615908069410</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615908113871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615908113871" />
+    <state x="414" y="78" key="#main.dart" timestamp="1615947828351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="78" key="#main.dart/0.0.1366.728@0.0.1366.728" timestamp="1615947828351" />
+    <state x="538" y="129" key="AndroidProcessChooserDialog" timestamp="1615947683147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="538" y="129" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1615947683147" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1615947840516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615947840516" />
+    <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1615947842516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1615947842516" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1615947506699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1615947506699" />
+  </component>
+</project>
